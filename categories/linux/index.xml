@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Linux on Peter Pan</title>
+        <link>https://pwcwmy.github.io/categories/linux/</link>
+        <description>Recent content in Linux on Peter Pan</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Peter Pan</copyright>
+        <lastBuildDate>Fri, 17 Jan 2025 18:45:41 +0800</lastBuildDate><atom:link href="https://pwcwmy.github.io/categories/linux/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Linux 150道开胃菜</title>
+        <link>https://pwcwmy.github.io/p/linux-150%E9%81%93%E5%BC%80%E8%83%83%E8%8F%9C/</link>
+        <pubDate>Fri, 17 Jan 2025 18:45:41 +0800</pubDate>
+        
+        <guid>https://pwcwmy.github.io/p/linux-150%E9%81%93%E5%BC%80%E8%83%83%E8%8F%9C/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
